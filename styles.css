@@ -1,0 +1,47 @@
+table,td,th {
+    	border: 1px solid black;
+    }
+    
+    body {
+    	margin:0px;
+    	font-family:Tahoma, Geneva, sans-serif;
+    	background-color:#ffedae;
+    	padding-bottom: 2cm;
+    }
+    
+    #topbar {
+    	background-color:#8ac007;
+    	width: 100%;
+    	height: 80px;
+    }
+    
+    .fixedwidth {
+    	width:1050px;
+    	margin:0 auto;
+    }
+    
+    #logodiv {
+    	padding-top:20px;
+    	float:left;
+    }
+    
+    #portrait {
+    	border:4px solid #8ac007; 
+    }
+    
+    .maincontent {
+    	padding-left: 30px;
+    	padding-right: 30px;
+    }
+    
+    span {
+    	color:#8ac007;
+    	font-style: italic;
+    }
+    
+    .projects {
+    	display: block;
+    	margin-left: auto;
+    	margin-right: auto
+    	padding-bottom:50px;
+    }
